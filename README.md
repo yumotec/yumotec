@@ -1,6 +1,5 @@
 # Yumo sama
 
-地表最强AI，视觉与思维能力max，目前运行需要环境为power
-point（笑
+玉墨，女（存疑），200?年生，江苏人
 
-其实没有开工罢了
+![yumo](https://xiaoditx.github.io/imgs/yumo.png)
